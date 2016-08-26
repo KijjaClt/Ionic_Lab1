@@ -1,2 +1,2 @@
 # Ionic_Lab1
-แลปแรกของจารโจ้ อิอิ
+Converter Binary, Octal, Hexadecimal
